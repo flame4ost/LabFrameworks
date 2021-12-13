@@ -1,10 +1,10 @@
 # LabFrameworks
 ⌛Tasks in lab:
 
-[X]🏷️SpringBoot/API/Postman
-[X]🌀SpringBoot + Thymeleaf (CRUD)
-[X]🔥Angular(FrontEnd) + SpringBoot(Backend)/API
-[X]Database: 🏧MySQL
+- [X] 🏷️SpringBoot/API/Postman
+- [X] 🌀SpringBoot + Thymeleaf (CRUD)
+- [X] 🔥Angular(FrontEnd) + SpringBoot(Backend)/API
+- [X] Database: 🏧MySQL
 
 How to RUN?
 1.Open Project
